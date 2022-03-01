@@ -1,0 +1,13 @@
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Service.deps.json
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Service.dll
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Service.pdb
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.AssemblyInfoInputs.cache
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.AssemblyInfo.cs
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.csproj.CoreCompileInputs.cache
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.dll
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.pdb
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.csproj.AssemblyReference.cache
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.dll
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.pdb
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Service\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Service.csproj.CopyComplete

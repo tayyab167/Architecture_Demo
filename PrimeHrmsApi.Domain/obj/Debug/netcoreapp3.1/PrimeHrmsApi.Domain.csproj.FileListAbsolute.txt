@@ -1,0 +1,13 @@
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.deps.json
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.runtimeconfig.json
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.runtimeconfig.dev.json
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.dll
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\bin\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.pdb
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.AssemblyInfoInputs.cache
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.AssemblyInfo.cs
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.dll
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.pdb
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.genruntimeconfig.cache
+C:\Api\PrimeHrmsApi\PrimeHrmsApi.Domain\obj\Debug\netcoreapp3.1\PrimeHrmsApi.Domain.csproj.AssemblyReference.cache
